@@ -12,8 +12,8 @@ and version history tracking.
 
 Initial Repository Content:
 
-- README.md
-- Additional files will be added during development
+- README.md (main documentation)
+- Feature-related files
 1. Stage all changes and commit them with the commit message:
     
     initial commit {STUDENT_ID}
