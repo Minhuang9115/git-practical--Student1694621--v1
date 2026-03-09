@@ -13,11 +13,12 @@ and version history tracking.
 Initial Repository Content:
 
 - README.md
-- Additional files will be added during development
+- Core application files
+- Configuration files
+
 1. Stage all changes and commit them with the commit message:
-    
-    initial commit {STUDENT_ID}
-    
+
+   initial commit {STUDENT_ID}
 
 Scoring Criteria:
 
